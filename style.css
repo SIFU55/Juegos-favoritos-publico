@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(67, 8, 82);
+    color: rgb(254, 231, 168);
+}
+
+ul {
+    list-style-type:"🤯 ";   
+    color:rgb(172, 255, 5);
+}
+
+ol {
+    color:rgb(255, 0, 0);
+}
+
+a {
+    color:orangered;
+}
